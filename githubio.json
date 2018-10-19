@@ -3,5 +3,10 @@
  {"bid":"com.rxcs.zj",
  "auditState":1,
  "url":"",
+ "version":"1.0.1"},
+
+{"bid":"com.rxgc.yqw",
+ "auditState":0,
+ "url":"http://wx.6938305.com/Wx2/game/by/29970767",
  "version":"1.0.1"}
- ]
+]
