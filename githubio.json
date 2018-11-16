@@ -11,8 +11,8 @@
  "version":"1.0.1"},
 
 {"bid":"com.xscs.gbb",
- "auditState":1,
- "url":"http://h5.game-props.com/h5sdk/yellowlogin?skin=blackgold&appid=100001312&game_version=3.16.3&initial=%7B%22devicetype%22%3A%20%22iPhone7,1%22,%22osversion%22%3A%20%2210.3.3%22,%22device_id%22%3A%20%229B44AJE7-F4D5-4BD7-8ED1-A616FC8AA902%22,%22uuid%22%3A%20%220B1F5CEEF3FC437BBCAA0B1B40C3C588%22,%20%22idfv%22%3A%20%229B55EEE7-F4D5-4BD7-8ED1-A616FC8AA902%22,%22inip%22%3A%22112.17.115.74%22,%22resolution%22%3A%20%22640%2a1136%22,%22network%22%3A%20%22wifi%22,%22op%22%3A%20%22%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%22,%22isPad%22%3A%20%22false%22%7D",
+ "auditState":0,
+ "url":"",
  "version":"1.1.1"},
 
 {"bid":"com.xscs.gbb",
